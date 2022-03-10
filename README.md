@@ -13,5 +13,3 @@ PORT=
 
 SERVICE_NAME=
 
-
-## url=http://localhost:9000/api/getHealthInfo
